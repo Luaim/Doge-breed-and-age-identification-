@@ -1,6 +1,14 @@
 {
-    "Adult": 0,
-    "Senior": 1,
-    "Young": 2
+  "Adult": {
+    "index": 0,
+    "health": "Adult dogs require regular exercise to maintain a healthy weight and prevent obesity. Regular vet check-ups are recommended to monitor for early signs of health issues."
+  },
+  "Senior": {
+    "index": 1,
+    "health": "Senior dogs often face mobility issues, arthritis, and dental disease. Provide joint supplements and ensure regular vet visits for pain management and overall health."
+  },
+  "Young": {
+    "index": 2,
+    "health": "Young dogs need proper training, socialization, and vaccinations. Ensure a balanced diet for growth and avoid over-exertion, especially in high-energy breeds."
   }
-  
+}

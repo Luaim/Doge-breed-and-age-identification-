@@ -1,1 +1,483 @@
-{"n02085620-Chihuahua": 0, "n02085782-Japanese_spaniel": 1, "n02085936-Maltese_dog": 2, "n02086079-Pekinese": 3, "n02086240-Shih-Tzu": 4, "n02086646-Blenheim_spaniel": 5, "n02086910-papillon": 6, "n02087046-toy_terrier": 7, "n02087394-Rhodesian_ridgeback": 8, "n02088094-Afghan_hound": 9, "n02088238-basset": 10, "n02088364-beagle": 11, "n02088466-bloodhound": 12, "n02088632-bluetick": 13, "n02089078-black-and-tan_coonhound": 14, "n02089867-Walker_hound": 15, "n02089973-English_foxhound": 16, "n02090379-redbone": 17, "n02090622-borzoi": 18, "n02090721-Irish_wolfhound": 19, "n02091032-Italian_greyhound": 20, "n02091134-whippet": 21, "n02091244-Ibizan_hound": 22, "n02091467-Norwegian_elkhound": 23, "n02091635-otterhound": 24, "n02091831-Saluki": 25, "n02092002-Scottish_deerhound": 26, "n02092339-Weimaraner": 27, "n02093256-Staffordshire_bullterrier": 28, "n02093428-American_Staffordshire_terrier": 29, "n02093647-Bedlington_terrier": 30, "n02093754-Border_terrier": 31, "n02093859-Kerry_blue_terrier": 32, "n02093991-Irish_terrier": 33, "n02094114-Norfolk_terrier": 34, "n02094258-Norwich_terrier": 35, "n02094433-Yorkshire_terrier": 36, "n02095314-wire-haired_fox_terrier": 37, "n02095570-Lakeland_terrier": 38, "n02095889-Sealyham_terrier": 39, "n02096051-Airedale": 40, "n02096177-cairn": 41, "n02096294-Australian_terrier": 42, "n02096437-Dandie_Dinmont": 43, "n02096585-Boston_bull": 44, "n02097047-miniature_schnauzer": 45, "n02097130-giant_schnauzer": 46, "n02097209-standard_schnauzer": 47, "n02097298-Scotch_terrier": 48, "n02097474-Tibetan_terrier": 49, "n02097658-silky_terrier": 50, "n02098105-soft-coated_wheaten_terrier": 51, "n02098286-West_Highland_white_terrier": 52, "n02098413-Lhasa": 53, "n02099267-flat-coated_retriever": 54, "n02099429-curly-coated_retriever": 55, "n02099601-golden_retriever": 56, "n02099712-Labrador_retriever": 57, "n02099849-Chesapeake_Bay_retriever": 58, "n02100236-German_short-haired_pointer": 59, "n02100583-vizsla": 60, "n02100735-English_setter": 61, "n02100877-Irish_setter": 62, "n02101006-Gordon_setter": 63, "n02101388-Brittany_spaniel": 64, "n02101556-clumber": 65, "n02102040-English_springer": 66, "n02102177-Welsh_springer_spaniel": 67, "n02102318-cocker_spaniel": 68, "n02102480-Sussex_spaniel": 69, "n02102973-Irish_water_spaniel": 70, "n02104029-kuvasz": 71, "n02104365-schipperke": 72, "n02105056-groenendael": 73, "n02105162-malinois": 74, "n02105251-briard": 75, "n02105412-kelpie": 76, "n02105505-komondor": 77, "n02105641-Old_English_sheepdog": 78, "n02105855-Shetland_sheepdog": 79, "n02106030-collie": 80, "n02106166-Border_collie": 81, "n02106382-Bouvier_des_Flandres": 82, "n02106550-Rottweiler": 83, "n02106662-German_shepherd": 84, "n02107142-Doberman": 85, "n02107312-miniature_pinscher": 86, "n02107574-Greater_Swiss_Mountain_dog": 87, "n02107683-Bernese_mountain_dog": 88, "n02107908-Appenzeller": 89, "n02108000-EntleBucher": 90, "n02108089-boxer": 91, "n02108422-bull_mastiff": 92, "n02108551-Tibetan_mastiff": 93, "n02108915-French_bulldog": 94, "n02109047-Great_Dane": 95, "n02109525-Saint_Bernard": 96, "n02109961-Eskimo_dog": 97, "n02110063-malamute": 98, "n02110185-Siberian_husky": 99, "n02110627-affenpinscher": 100, "n02110806-basenji": 101, "n02110958-pug": 102, "n02111129-Leonberg": 103, "n02111277-Newfoundland": 104, "n02111500-Great_Pyrenees": 105, "n02111889-Samoyed": 106, "n02112018-Pomeranian": 107, "n02112137-chow": 108, "n02112350-keeshond": 109, "n02112706-Brabancon_griffon": 110, "n02113023-Pembroke": 111, "n02113186-Cardigan": 112, "n02113624-toy_poodle": 113, "n02113712-miniature_poodle": 114, "n02113799-standard_poodle": 115, "n02113978-Mexican_hairless": 116, "n02115641-dingo": 117, "n02115913-dhole": 118, "n02116738-African_hunting_dog": 119}
+{
+    "n02085620-Chihuahua": {
+        "index": 0,
+        "health": "Prone to dental issues, hypoglycemia, and patellar luxation. Regular dental care, small frequent meals, and joint support are essential."
+    },
+    "n02085782-Japanese_spaniel": {
+        "index": 1,
+        "health": "Susceptible to respiratory issues and heart problems. Avoid overexertion and high temperatures; regular vet checkups are recommended."
+    },
+    "n02085936-Maltese_dog": {
+        "index": 2,
+        "health": "Commonly faces dental disease and tear staining. Brush teeth daily and clean around the eyes regularly."
+    },
+    "n02086079-Pekinese": {
+        "index": 3,
+        "health": "Brachycephalic breed prone to breathing difficulties and eye problems. Keep them cool in hot weather and monitor for corneal ulcers."
+    },
+    "n02086240-Shih-Tzu": {
+        "index": 4,
+        "health": "Prone to eye issues, hip dysplasia, and allergies. Regular grooming and vet visits are crucial."
+    },
+    "n02086646-Blenheim_spaniel": {
+        "index": 5,
+        "health": "Can suffer from mitral valve disease and hip dysplasia. Regular heart screenings and joint supplements are recommended."
+    },
+    "n02086910-papillon": {
+        "index": 6,
+        "health": "Susceptible to dental disease and patellar luxation. Brush teeth daily and maintain a healthy weight to reduce joint stress."
+    },
+    "n02087046-toy_terrier": {
+        "index": 7,
+        "health": "Prone to dental problems and fragile bones. Provide a balanced diet and avoid rough handling."
+    },
+    "n02087394-Rhodesian_ridgeback": {
+        "index": 8,
+        "health": "At risk for hip dysplasia and dermoid sinus. Regular exercise and early screening for skin issues are essential."
+    },
+    "n02088094-Afghan_hound": {
+        "index": 9,
+        "health": "Prone to bloat and sensitivity to anesthesia. Feed smaller meals and consult a vet before any surgical procedures."
+    },
+    "n02088238-basset": {
+        "index": 10,
+        "health": "Commonly affected by obesity and ear infections. Maintain a healthy diet and clean ears regularly."
+    },
+    "n02088364-beagle": {
+        "index": 11,
+        "health": "Prone to obesity and epilepsy. Monitor food intake and provide daily exercise."
+    },
+    "n02088466-bloodhound": {
+        "index": 12,
+        "health": "At risk for bloat and ear infections. Feed smaller meals and clean ears frequently."
+    },
+    "n02088632-bluetick": {
+        "index": 13,
+        "health": "Susceptible to hip dysplasia and obesity. Regular exercise and a controlled diet are important."
+    },
+    "n02089078-black-and-tan_coonhound": {
+        "index": 14,
+        "health": "Prone to ear infections and hip dysplasia. Clean ears weekly and monitor joint health."
+    },
+    "n02089867-Walker_hound": {
+        "index": 15,
+        "health": "Can develop bloat and hip dysplasia. Maintain an active lifestyle and feed smaller, frequent meals."
+    },
+    "n02089973-English_foxhound": {
+        "index": 16,
+        "health": "Generally healthy but may suffer from hip dysplasia. Provide ample exercise and joint supplements."
+    },
+    "n02090379-redbone": {
+        "index": 17,
+        "health": "At risk for obesity and ear infections. Provide a high-protein diet and clean ears regularly."
+    },
+    "n02090622-borzoi": {
+        "index": 18,
+        "health": "Sensitive to anesthesia and prone to bloat. Consult a vet before surgeries and avoid heavy meals before exercise."
+    },
+    "n02090721-Irish_wolfhound": {
+        "index": 19,
+        "health": "Short lifespan, at risk for heart disease and bloat. Regular heart screenings and proper meal scheduling are recommended."
+    },
+    "n02091032-Italian_greyhound": {
+        "index": 20,
+        "health": "Prone to dental disease and fragile bones. Brush teeth daily and prevent high-impact activities."
+    },
+    "n02091134-whippet": {
+        "index": 21,
+        "health": "Prone to heart disease and sensitivity to cold. Provide a warm environment and regular cardiac checkups."
+    },
+    "n02091244-Ibizan_hound": {
+        "index": 22,
+        "health": "Generally healthy but can be sensitive to anesthesia. Monitor diet and avoid unnecessary medical sedation."
+    },
+    "n02091467-Norwegian_elkhound": {
+        "index": 23,
+        "health": "At risk for hip dysplasia and obesity. Maintain an active lifestyle and balanced diet."
+    },
+    "n02091635-otterhound": {
+        "index": 24,
+        "health": "Prone to bloat and hip dysplasia. Provide regular exercise and feed smaller meals throughout the day."
+    },
+    "n02091831-Saluki": {
+        "index": 25,
+        "health": "Sensitive to anesthesia and prone to hip dysplasia. Use caution with sedatives and provide joint supplements."
+    },
+    "n02092002-Scottish_deerhound": {
+        "index": 26,
+        "health": "At risk for heart disease and bloat. Regular heart monitoring and meal portioning are advised."
+    },
+    "n02092339-Weimaraner": {
+        "index": 27,
+        "health": "Susceptible to bloat and separation anxiety. Feed small frequent meals and provide mental stimulation."
+    },
+    "n02093256-Staffordshire_bullterrier": {
+        "index": 28,
+        "health": "Prone to hip dysplasia and skin allergies. Maintain a healthy weight and check for rashes regularly."
+    },
+    "n02093428-American_Staffordshire_terrier": {
+        "index": 29,
+        "health": "Common issues include hip dysplasia and heart disease. Regular vet checkups and a balanced diet are essential."
+    },
+    "n02093647-Bedlington_terrier": {
+        "index": 30,
+        "health": "At risk for copper toxicosis and liver disease. Regular liver function tests are recommended."
+    },
+    "n02093754-Border_terrier": {
+        "index": 31,
+        "health": "Susceptible to hip dysplasia and seizures. Regular exercise and monitoring for neurological issues are key."
+    },
+    "n02093859-Kerry_blue_terrier": {
+        "index": 32,
+        "health": "Prone to skin conditions and eye problems. Regular grooming and eye checkups are important."
+    },
+    "n02093991-Irish_terrier": {
+        "index": 33,
+        "health": "Can suffer from skin allergies and bladder stones. Provide a balanced diet and monitor water intake."
+    },
+    "n02094114-Norfolk_terrier": {
+        "index": 34,
+        "health": "At risk for hip dysplasia and mitral valve disease. Regular heart screenings and exercise are advised."
+    },
+    "n02094258-Norwich_terrier": {
+        "index": 35,
+        "health": "Commonly affected by respiratory issues and dental disease. Avoid excessive heat and brush teeth regularly."
+    },
+    "n02094433-Yorkshire_terrier": {
+        "index": 36,
+        "health": "Prone to dental disease and tracheal collapse. Provide dental care and avoid using collars that put pressure on the throat."
+    },
+    "n02095314-wire-haired_fox_terrier": {
+        "index": 37,
+        "health": "At risk for cataracts and hip dysplasia. Regular eye checkups and maintaining a healthy weight are crucial."
+    },
+    "n02095570-Lakeland_terrier": {
+        "index": 38,
+        "health": "Prone to ear infections and skin allergies. Keep ears clean and monitor for signs of itching or irritation."
+    },
+    "n02095889-Sealyham_terrier": {
+        "index": 39,
+        "health": "Common issues include ear infections and obesity. Regular ear cleaning and portion control are necessary."
+    },
+    "n02096051-Airedale": {
+        "index": 40,
+        "health": "Susceptible to hip dysplasia and skin conditions. Maintain a healthy weight and provide a high-quality diet."
+    },
+    "n02096177-cairn": {
+        "index": 41,
+        "health": "Prone to hip dysplasia and eye problems. Regular vet checkups and a nutritious diet are essential."
+    },
+    "n02096294-Australian_terrier": {
+        "index": 42,
+        "health": "Susceptible to diabetes and allergies. Maintain a healthy weight and monitor for signs of itching or excessive thirst."
+    },
+    "n02096437-Dandie_Dinmont": {
+        "index": 43,
+        "health": "At risk for spinal issues and glaucoma. Avoid excessive jumping and provide regular eye checkups."
+    },
+    "n02096585-Boston_bull": {
+        "index": 44,
+        "health": "Commonly affected by breathing difficulties and eye injuries. Keep cool in hot weather and monitor for signs of discomfort."
+    },
+    "n02097047-miniature_schnauzer": {
+        "index": 45,
+        "health": "Prone to pancreatitis and urinary stones. Provide a low-fat diet and ensure plenty of water intake."
+    },
+    "n02097130-giant_schnauzer": {
+        "index": 46,
+        "health": "At risk for bloat and hip dysplasia. Avoid exercise after meals and feed in small portions."
+    },
+    "n02097209-standard_schnauzer": {
+        "index": 47,
+        "health": "Can develop hip dysplasia and bladder stones. Regular exercise and hydration are important."
+    },
+    "n02097298-Scotch_terrier": {
+        "index": 48,
+        "health": "Susceptible to bladder cancer and von Willebrand disease. Monitor urinary habits and perform genetic screenings."
+    },
+    "n02097474-Tibetan_terrier": {
+        "index": 49,
+        "health": "Prone to progressive retinal atrophy and hip dysplasia. Routine eye exams and joint care are recommended."
+    },
+    "n02097658-silky_terrier": {
+        "index": 50,
+        "health": "Commonly experiences tracheal collapse and dental issues. Use a harness instead of a collar and provide regular dental care."
+    },
+    "n02098105-soft-coated_wheaten_terrier": {
+        "index": 51,
+        "health": "At risk for protein-losing nephropathy and allergies. Monitor protein levels in the diet and watch for digestive issues."
+    },
+    "n02098286-West_Highland_white_terrier": {
+        "index": 52,
+        "health": "Prone to skin disorders and lung disease. Regular grooming and a smoke-free environment are advised."
+    },
+    "n02098413-Lhasa": {
+        "index": 53,
+        "health": "Can develop kidney disease and hip dysplasia. Provide a well-balanced diet and avoid excessive weight gain."
+    },
+    "n02099267-flat-coated_retriever": {
+        "index": 54,
+        "health": "At risk for cancer and hip dysplasia. Routine health screenings and a balanced diet can help manage risks."
+    },
+    "n02099429-curly-coated_retriever": {
+        "index": 55,
+        "health": "Prone to epilepsy and eye disorders. Regular vet checkups and early intervention for seizures are key."
+    },
+    "n02099601-golden_retriever": {
+        "index": 56,
+        "health": "Commonly suffers from hip dysplasia and cancer. Regular vet visits and a healthy diet are essential."
+    },
+    "n02099712-Labrador_retriever": {
+        "index": 57,
+        "health": "Prone to obesity and joint problems. Maintain an active lifestyle and control food portions."
+    },
+    "n02099849-Chesapeake_Bay_retriever": {
+        "index": 58,
+        "health": "At risk for hip dysplasia and degenerative myelopathy. Provide joint supplements and monitor mobility."
+    },
+    "n02100236-German_short-haired_pointer": {
+        "index": 59,
+        "health": "Can develop heart disease and hip dysplasia. Regular exercise and heart screenings are beneficial."
+    },
+    "n02100583-vizsla": {
+        "index": 60,
+        "health": "Prone to epilepsy and hip dysplasia. Provide mental stimulation and routine medical checkups."
+    },
+    "n02100735-English_setter": {
+        "index": 61,
+        "health": "At risk for hip dysplasia and bloat. Avoid excessive exercise after meals and ensure healthy weight management."
+    },
+    "n02100877-Irish_setter": {
+        "index": 62,
+        "health": "Prone to hip dysplasia and progressive retinal atrophy. Regular eye exams and joint care are recommended."
+    },
+    "n02101006-Gordon_setter": {
+        "index": 63,
+        "health": "Can develop hip dysplasia and hypothyroidism. Regular health checks and a balanced diet are important."
+    },
+    "n02101388-Brittany_spaniel": {
+        "index": 64,
+        "health": "Prone to hip dysplasia and seizures. Monitor weight and provide regular vet checkups to manage risk."
+    },
+    "n02101556-clumber": {
+        "index": 65,
+        "health": "At risk for intervertebral disc disease and hip dysplasia. Avoid excessive jumping and provide joint support."
+    },
+    "n02102040-English_springer": {
+        "index": 66,
+        "health": "Prone to hip dysplasia and eye disorders. Regular eye exams and hip checkups are important."
+    },
+    "n02102177-Welsh_springer_spaniel": {
+        "index": 67,
+        "health": "Can develop hip dysplasia and hypothyroidism. Regular exercise and a healthy diet can manage these risks."
+    },
+    "n02102318-cocker_spaniel": {
+        "index": 68,
+        "health": "Susceptible to ear infections and hip dysplasia. Regular ear cleaning and joint care are recommended."
+    },
+    "n02102480-Sussex_spaniel": {
+        "index": 69,
+        "health": "Prone to hip dysplasia and obesity. Maintain a healthy weight and provide regular vet checkups."
+    },
+    "n02102973-Irish_water_spaniel": {
+        "index": 70,
+        "health": "Can develop hip dysplasia and eye problems. Regular checkups for eyes and joints are advised."
+    },
+    "n02104029-kuvasz": {
+        "index": 71,
+        "health": "At risk for hip dysplasia and bloat. Provide a controlled diet and avoid excessive exercise after meals."
+    },
+    "n02104365-schipperke": {
+        "index": 72,
+        "health": "Prone to hip dysplasia and progressive retinal atrophy. Regular vet visits are important for early detection."
+    },
+    "n02105056-groenendael": {
+        "index": 73,
+        "health": "Can develop hip dysplasia and epilepsy. Regular exercise and neurological checkups are recommended."
+    },
+    "n02105162-malinois": {
+        "index": 74,
+        "health": "At risk for hip dysplasia and elbow dysplasia. Provide regular vet checkups and maintain a healthy weight."
+    },
+    "n02105251-briard": {
+        "index": 75,
+        "health": "Prone to hip dysplasia and progressive retinal atrophy. Regular exercise and eye exams are important."
+    },
+    "n02105412-kelpie": {
+        "index": 76,
+        "health": "Can develop hip dysplasia and progressive retinal atrophy. Regular vet visits and eye exams are recommended."
+    },
+    "n02105505-komondor": {
+        "index": 77,
+        "health": "At risk for hip dysplasia and skin problems. Regular grooming and joint care are important."
+    },
+    "n02105641-Old_English_sheepdog": {
+        "index": 78,
+        "health": "Prone to hip dysplasia and hypothyroidism. Regular exercise and thyroid screenings are recommended."
+    },
+    "n02105855-Shetland_sheepdog": {
+        "index": 79,
+        "health": "Can develop hip dysplasia and hypothyroidism. Regular vet checkups and joint supplements can help."
+    },
+    "n02106030-collie": {
+        "index": 80,
+        "health": "Prone to hip dysplasia and eye problems. Regular eye exams and joint care are important for maintaining health."
+    },
+    "n02106166-Border_collie": {
+        "index": 81,
+        "health": "Prone to hip dysplasia and epilepsy. Regular exercise and mental stimulation are key to keeping them healthy."
+    },
+    "n02106382-Bouvier_des_Flandres": {
+        "index": 82,
+        "health": "At risk for hip dysplasia and bloat. Avoid feeding right before exercise and ensure joint support."
+    },
+    "n02106550-Rottweiler": {
+        "index": 83,
+        "health": "Prone to hip dysplasia, elbow dysplasia, and bloat. Regular checkups and joint care are essential."
+    },
+    "n02106662-German_shepherd": {
+        "index": 84,
+        "health": "At risk for hip and elbow dysplasia. Regular exercise and maintaining a healthy weight are important."
+    },
+    "n02107142-Doberman": {
+        "index": 85,
+        "health": "Prone to hip dysplasia, hypothyroidism, and heart problems. Regular vet checkups and heart screenings are recommended."
+    },
+    "n02107312-miniature_pinscher": {
+        "index": 86,
+        "health": "Can develop patellar luxation and hypothyroidism. Maintain a healthy diet and regular vet visits."
+    },
+    "n02107574-Greater_Swiss_Mountain_dog": {
+        "index": 87,
+        "health": "Prone to hip dysplasia and bloat. Avoid strenuous activity after meals and maintain joint support."
+    },
+    "n02107683-Bernese_mountain_dog": {
+        "index": 88,
+        "health": "At risk for hip dysplasia, bloat, and cancers. Regular joint care and weight management are key."
+    },
+    "n02107908-Appenzeller": {
+        "index": 89,
+        "health": "Can develop hip dysplasia and progressive retinal atrophy. Regular eye exams and joint care are recommended."
+    },
+    "n02108000-EntleBucher": {
+        "index": 90,
+        "health": "Prone to hip dysplasia and epilepsy. Provide regular vet visits and neurological checkups."
+    },
+    "n02108089-boxer": {
+        "index": 91,
+        "health": "At risk for heart disease, hip dysplasia, and cancer. Regular heart screenings and joint care are important."
+    },
+    "n02108422-bull_mastiff": {
+        "index": 92,
+        "health": "Prone to hip dysplasia, bloat, and obesity. Monitor their weight and avoid excessive exercise after meals."
+    },
+    "n02108551-Tibetan_mastiff": {
+        "index": 93,
+        "health": "Can develop hip dysplasia and hypothyroidism. Regular health checkups and joint care are advised."
+    },
+    "n02108915-French_bulldog": {
+        "index": 94,
+        "health": "Prone to brachycephalic syndrome and hip dysplasia. Keep an eye on their breathing and joints."
+    },
+    "n02109047-Great_Dane": {
+        "index": 95,
+        "health": "Prone to hip dysplasia, bloat, and heart problems. Regular vet visits and a controlled diet are essential."
+    },
+    "n02109525-Saint_Bernard": {
+        "index": 96,
+        "health": "At risk for hip dysplasia, bloat, and heart disease. Provide joint support and monitor for signs of bloat."
+    },
+    "n02109961-Eskimo_dog": {
+        "index": 97,
+        "health": "Prone to hip dysplasia and eye problems. Regular vet checkups and eye exams are recommended."
+    },
+    "n02110063-malamute": {
+        "index": 98,
+        "health": "At risk for hip dysplasia, hypothyroidism, and eye problems. Regular exercise and health screenings are important."
+    },
+    "n02110185-Siberian_husky": {
+        "index": 99,
+        "health": "Prone to hip dysplasia and eye problems, particularly cataracts. Regular vet visits and eye screenings are essential."
+    },
+    "n02110627-affenpinscher": {
+        "index": 100,
+        "health": "Generally healthy but can develop dental issues, patellar luxation, and respiratory problems due to their small size. Regular dental care and joint support are advised."
+    },
+    "n02110806-basenji": {
+        "index": 101,
+        "health": "Basenjis are generally healthy but may suffer from hip dysplasia, progressive retinal atrophy, and hypothyroidism. Regular check-ups and early detection of eye issues are important."
+    },
+    "n02110958-pug": {
+        "index": 102,
+        "health": "Pugs are prone to breathing problems due to their brachycephalic nature, as well as obesity, hip dysplasia, and eye conditions. Keep their weight under control and watch for signs of breathing distress."
+    },
+    "n02111129-Leonberg": {
+        "index": 103,
+        "health": "Leonbergs are prone to hip dysplasia, elbow dysplasia, and heart conditions. Regular joint health monitoring and maintaining a healthy weight are key."
+    },
+    "n02111277-Newfoundland": {
+        "index": 104,
+        "health": "Newfoundlands are at risk for hip and elbow dysplasia, as well as heart conditions like dilated cardiomyopathy. Ensure regular vet visits and avoid excessive exercise to protect their joints."
+    },
+    "n02111500-Great_Pyrenees": {
+        "index": 105,
+        "health": "This breed can develop hip dysplasia, entropion (eye issue), and heart conditions. Regular vet checks and maintaining an active but controlled lifestyle are important."
+    },
+    "n02111889-Samoyed": {
+        "index": 106,
+        "health": "Samoyeds are generally healthy but can suffer from hip dysplasia, cataracts, and hypothyroidism. Keep an eye on their weight and maintain an active lifestyle."
+    },
+    "n02112018-Pomeranian": {
+        "index": 107,
+        "health": "Pomeranians are susceptible to dental issues, patellar luxation, and tracheal collapse. Regular dental care and joint health monitoring are necessary."
+    },
+    "n02112137-chow": {
+        "index": 108,
+        "health": "Chows are prone to hip dysplasia, hypothyroidism, and entropion. Regular eye check-ups and weight management are essential for their health."
+    },
+    "n02112350-keeshond": {
+        "index": 109,
+        "health": "Keeshonds may develop hip dysplasia, hypothyroidism, and progressive retinal atrophy. Regular vet visits and maintaining a healthy weight are important."
+    },
+    "n02112706-Brabancon_griffon": {
+        "index": 110,
+        "health": "Brabancons are generally healthy but may suffer from respiratory problems due to their short muzzle, as well as dental issues. Regular check-ups and dental hygiene are important."
+    },
+    "n02113023-Pembroke": {
+        "index": 111,
+        "health": "Pembroke Corgis are prone to hip dysplasia, intervertebral disc disease, and obesity. Monitoring their weight and joint health is crucial."
+    },
+    "n02113186-Cardigan": {
+        "index": 112,
+        "health": "Cardigans may suffer from hip dysplasia, eye problems, and progressive retinal atrophy. Regular eye exams and joint health monitoring are recommended."
+    },
+    "n02113624-toy_poodle": {
+        "index": 113,
+        "health": "Toy Poodles are generally healthy but can develop patellar luxation, dental issues, and seizures. Regular dental care and weight management are important."
+    },
+    "n02113712-miniature_poodle": {
+        "index": 114,
+        "health": "Miniature Poodles may face hip dysplasia, patellar luxation, and progressive retinal atrophy. Regular exercise and weight management are essential."
+    },
+    "n02113799-standard_poodle": {
+        "index": 115,
+        "health": "Standard Poodles are generally healthy but are prone to hip dysplasia, hypothyroidism, and bloat. Regular check-ups and exercise are crucial for their health."
+    },
+    "n02113978-Mexican_hairless": {
+        "index": 116,
+        "health": "Mexican Hairless dogs are prone to skin issues, including allergies and sunburns, as well as dental problems. Regular skincare and dental care are necessary."
+    },
+    "n02115641-dingo": {
+        "index": 117,
+        "health": "Australian Dingos are generally healthy but can suffer from hip dysplasia and skin allergies. Regular check-ups and maintaining a healthy lifestyle are important."
+    },
+    "n02115913-dhole": {
+        "index": 118,
+        "health": "Dholes may suffer from hip dysplasia, heart conditions, and parasitic infections. Regular health check-ups and vaccinations are essential."
+    },
+    "n02116738-African_hunting_dog": {
+        "index": 119,
+        "health": "African Hunting Dogs are generally healthy but can suffer from hip dysplasia, heart conditions, and other joint issues. Regular exercise and a healthy diet are necessary."
+    }
+
+}

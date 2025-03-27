@@ -29,10 +29,10 @@ After uploading a dog image:
 ## 📈 Model Training Performance
 
 ### ✅ Accuracy Over Epochs
-![Accuracy](accuracy_plot.png)
+![Accuracy](https://github.com/Luaim/Doge-breed-and-age-identification-/blob/main/Validation%20Accuracy.png)
 
 ### ✅ Loss Over Epochs
-![Loss](loss_plot.png)
+![Loss](https://github.com/Luaim/Doge-breed-and-age-identification-/blob/main/Validation%20Loss.png)
 
 ---
 
